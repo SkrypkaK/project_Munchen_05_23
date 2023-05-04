@@ -1,0 +1,34 @@
+Для запуска кода «Справочник погодных условий»  необходимо совершить следующие действия:
+
+1.	Установить программу PyCharm Community Edition 2022.3.3 на свой компьютер.
+2.	Перейти по предоставленной ссылке в директорию GitHub.
+3.	Перенести (скачать) из GitHub все файлы вместе с директориями в директорию PyCharmProjects.
+4.	Зайти на своем компьютере в директорию PyCharm => PyCharmProjects =>ProbaProgekt1.
+5.	Для запуска программы «Справочник погодных условий» необходимо навести курсор мышки на файл «main.py» и нажать правую кнопку мыши, после чего выбрать «Run “main”».
+6.	После запуска программы, в консоли программы PyCharm (которая находится в нижней части экрана) должно появиться предложение ввести наименование города «Enter city name:_____».
+7.	Необходимо в консоли программы PyCharm ввести наименование необходимого города и нажать ввод «Enter».
+8.	Результат будет выведен в консоли программы PyCharm.
+
+Для запуска кода авто тест «Справочник погодных условий»  необходимо совершить следующие действия:
+1.	Для запуска программы  авто тест «Справочник погодных условий» необходимо навести курсор мышки на файл «test.py» и нажать правую кнопку мыши, после чего выбрать «Run “Python tests in Test”».
+2.	  После запуска программы, в консоли программы PyCharm (которая находится в нижней части экрана) должно появиться сообщение следующего содержания «Process finished with exit code 0
+Ran 2 tests in 0.455s
+OK»
+
+
+To run the code "Directory of weather conditions", you must perform the following steps:
+
+1. Install PyCharm Community Edition 2022.3.3 on your computer.
+2. Follow the provided link to the GitHub directory.
+3. Transfer (download) all files from GitHub along with directories to the PyCharmProjects directory.
+4. Go to the PyCharm => PyCharmProjects => ProbaProgekt1 directory on your computer.
+5. To launch the "Weather Conditions Directory" program, you need to move the mouse cursor over the "main.py" file and press the right mouse button, then select "Run "main"".
+6. After starting the program, in the console of the PyCharm program (which is located at the bottom of the screen) you should be prompted to enter the name of the city "Enter city name:_____".
+7. It is necessary to enter the name of the required city in the PyCharm program console and press Enter.
+8. The result will be displayed in the console of the PyCharm program.
+
+To run the auto test code "Weather Conditions Reference", you must perform the following steps:
+1. To run the “Weather Conditions Reference” auto test program, you need to move the mouse cursor over the “test.py” file and press the right mouse button, then select “Run “Python tests in Test””.
+2. After starting the program, a message should appear in the PyCharm program console (which is located at the bottom of the screen) with the following content “Process finished with exit code 0
+Ran 2 tests in 0.455s
+OK"
